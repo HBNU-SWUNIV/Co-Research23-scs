@@ -1,10 +1,12 @@
 # Co-Research23
-# 한밭대 XXX학과 XXX팀
+# 한밭대 지능미디어공학과 SCS(Satellite Communication Security)팀
 
 **팀 구성**
-- 20XX0001 김이박 
-- 20XX0002 이박김
-- 20XX0003 박김이
+- 30231230 Ralph Kumah Assan
+- 20221095 민현선
+- 20191746 이영묵
+- 20171689 이용재
+- 20201819 하승철
 
 ## <u>Teamate</u> Project Background
 - ### 필요성
@@ -28,4 +30,4 @@
   - ### OOO
   
 ## Project Outcome
-- ### 20XX 년 OO학술대회 
+- ### 2023년 KICS(한국통신학회) 추계학술대회 학부 논문 발표 및 수상(우수상 1편, 장려상 1편)
